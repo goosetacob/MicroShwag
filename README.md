@@ -4,4 +4,4 @@ Arduino code for an old MicroMouse [Russell](mailto:rperr002@ucr.edu) and I did 
  
 ![MicroShwagPic][mouse]
 
-[mouse]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[mouse]: MicroShwag.jpg "MicroShwag"
